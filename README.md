@@ -1,4 +1,4 @@
-# Clock-using-p5.js
+# Clock using p5.js
 Designed a clock using p5.js  <br>
 p5.js is a JavaScript library for creative coding. <br>
 
